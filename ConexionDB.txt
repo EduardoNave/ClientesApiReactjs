@@ -1,0 +1,8 @@
+Comando Entity Framework: (agregar -f para actualizar)
+- Scaffold-DbContext 'Server=.; DataBase=ProyectoCliente;Integrated Security=true' Microsoft.EntityFrameworkCore.SqlServer -OutPutDir Models
+
+Comando par actualizar React + React DOM:
+- npm install react@latest  react-dom@latest
+
+Comando par actualizar Bootstrap + Reactstrap:
+- npm i bootstrap@5.1.3 reactstrap@9.1.1
